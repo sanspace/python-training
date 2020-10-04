@@ -162,6 +162,8 @@ del x.counter
 
 ### Decorators
 
+  - http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
+
 ## Resources
 
   - [Official Tutorial](https://docs.python.org/3/tutorial/)
