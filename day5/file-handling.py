@@ -41,7 +41,7 @@ with open('output.txt', 'a') as f:
         f.write(name)
 
 # converting objects
-t = ("John", 35
+t = ("John", 35)
 with open('output.txt', 'w') as f:
     f.write(str(t))
 
