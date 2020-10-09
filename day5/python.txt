@@ -1,0 +1,5 @@
+day,topic,time
+day1,python basics,3hrs
+day2,loops and functions,3hrs
+day3,lambdas and oop,3hrs
+day4,typehinting namespaces and decorators,3hrs
