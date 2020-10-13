@@ -8,44 +8,44 @@ Plan and Materials for Python Training.
 
 #### Basics
 
-  - operators
-  - strings
-  - branching
-  - looping
-  - functions
+  - [x] operators
+  - [x] strings
+  - [x] branching
+  - [x] looping
+  - [x] functions
 
 #### Beyond Basics
 
-  - exception handling
-  - modules
-  - file handling
+  - [x] exception handling
+  - [x] modules
+  - [x] file handling
 
 #### Data Structures
 
-  - Lists
-  - Tuples
-  - Sets
-  - Dictionaries
+  - [x] Lists
+  - [x] Tuples
+  - [x] Sets
+  - [x] Dictionaries
 
 #### OOP
 
-  - Classes
-  - Objects
-  - Inheritance
+  - [x] Classes
+  - [x] Objects
+  - [x] Inheritance
 
 #### More
 
-  - Iterators
-  - Generators
-  - Decorators
-  - Standard Library
-  - Command Line Args
-  - RegEx
-  - Virtual Environments and Packages
+  - [x] Iterators
+  - [x] Generators
+  - [x] Decorators
+  - [x] Standard Library
+  - [ ] Command Line Args
+  - [ ] RegEx
+  - [x] Virtual Environments and Packages
 
 ### Advanced
 
-  - Namespaces
+  - [x] Namespaces
 
 ### Web Frameworks
 
@@ -55,12 +55,12 @@ Plan and Materials for Python Training.
 
 ##### Routing
 
-  - Basics
-  - Variable Rules
-  - Unique URLs/ Redirection
-  - HTTP Methods
-  - Static Files
-  - Rendering Templates
+  - [ ] Basics
+  - [ ] Variable Rules
+  - [ ] Unique URLs/ Redirection
+  - [ ] HTTP Methods
+  - [ ] Static Files
+  - [ ] Rendering Templates
 
 #### Django
 
@@ -68,5 +68,5 @@ Plan and Materials for Python Training.
 
 ### Serverless Indroduction
 
-  - Lambda
-  - API Gateway
+  - [ ] Lambda
+  - [ ] API Gateway
