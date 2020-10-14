@@ -4,5 +4,3 @@
 
   - Flask
   - Flask RESTful
-  - SQLAlchemy
-  - Marshmallow
