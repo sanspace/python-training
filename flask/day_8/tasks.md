@@ -15,5 +15,8 @@
     - Positive/Negative cases
     - Add a case with Exception as well
   - Create SQLite DB and create data using Flask-SQLAlchemy and use it as the data source for your REST API
-    - GET, POST, PUT, DELET
+    - GET, POST, PUT, DELETE
     - Follow REST priniciples
+
+    /users/3 - GET, PUT, DELETE - Users
+    /users - GET, POST - UsersList
